@@ -1,0 +1,3 @@
+Team members: A-rao250 and B-sgottum
+Favorite programming language: Python
+Team motto: Pulling Requests on GitHub
